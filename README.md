@@ -14,6 +14,8 @@ This project focuses on how Convolutional Neural Networks (CNNs) 🧠 work to ex
 🏷️ 10 distinct fashion categories
 🔀 Pre-split training and testing datasets
 
+Dataset_link :https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
 <img width="1007" height="567" alt="image" src="https://github.com/user-attachments/assets/ae7f085f-1267-4d1d-95d4-af173dd8ce4d" />
 
 🛠️ Technologies Used:
